@@ -30,7 +30,7 @@ The project uses historical weather observations, predictive analytics, and inte
    4) **Agricultural Monitoring:** Visualize climate conditions across Northern Nigeria through interactive dashboards.
    5) **Data-Driven Planning:** Support agricultural agencies, NGOs, and policymakers with climate intelligence for food security planning.
 
-  ## 🗺️ Study Area
+  ## Study Area
   
    The project focuses on five major maize-producing states in Northern Nigeria:
     1) Kano
@@ -39,7 +39,7 @@ The project uses historical weather observations, predictive analytics, and inte
     4) Jigawa
     5) Sokoto
 
-   ## 🏗️ System Architecture
+   ## System Architecture
     
     `Weather Data Sources` ➔ `SQL Server Database` ➔ `Python Analytics Engine` ➔ `SPI Calculation` ➔ `Prophet Forecasting Model` ➔ `Planting Signal Generator` ➔ `Excel Data Export` ➔ `Tableau Dashboard`
 
