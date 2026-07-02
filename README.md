@@ -2,7 +2,7 @@
 
   **Maize Watch 1.0** is a climate-tech and agricultural intelligence dashboard designed to help farmers, agricultural stakeholders, NGOs, and government agencies      make data-driven planting decisions through rainfall forecasting, drought risk assessment, and climate analytics.
 
-The project uses historical weather observations, predictive analytics, and interactive data visualization to transform raw climate data into actionable agricultural intelligence.
+The project uses Open-Meteo Historical Weather API to pull historical weather observations, predictive analytics, and interactive data visualization to transform raw climate data into actionable agricultural intelligence.
 
 ## Problem Statement
    Agriculture in Northern Nigeria faces significant challenges due to:
